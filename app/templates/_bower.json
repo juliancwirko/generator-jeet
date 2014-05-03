@@ -2,7 +2,8 @@
   "name": "jeet package",
   "version": "0.0.1",
   "dependencies": {
-    "jquery": "~1.11.0"
+    "jquery": "~1.11.0"<% if (jeetScss) { %>,
+    "jeet": "https://github.com/mojotech/jeet.git#master"<% } %>
   }
 }
 

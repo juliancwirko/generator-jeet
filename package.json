@@ -1,6 +1,6 @@
 {
   "name": "generator-jeet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Yeoman generator for Jeet Grid System",
   "license": "MIT",
   "main": "app/index.js",
@@ -22,7 +22,7 @@
     "app"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator", "jeet", "grid system"
   ],
   "dependencies": {
     "yeoman-generator": "~0.16.0",

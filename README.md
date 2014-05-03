@@ -93,6 +93,10 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 
 ### Changelog
 
-#### 0.0.1 (27.04.2014)
+##### 0.0.2 (04.05.2014)
+
+- jeet scss from bower_components
+
+##### 0.0.1 (27.04.2014)
 
 - init

@@ -7,6 +7,9 @@ module.exports = function(grunt) {
         dist: 'dist',
 
         sass: {
+            options: {
+                includePaths: ['<%%= app %>/bower_components/jeet/scss']
+            },
             dist: {
                 options: {
                     outputStyle: 'extended'
@@ -108,6 +111,9 @@ module.exports = function(grunt) {
             target: {
                 src: [
                     '<%%= app %>/**/*.html'
+                ],
+                exclude: [
+                    'jeet'
                 ]
             }
         }

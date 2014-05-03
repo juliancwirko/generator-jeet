@@ -49,11 +49,6 @@ var JeetGenerator = yeoman.generators.Base.extend({
 
     if(this.jeetScss) {
       this.mkdir('app/scss');
-      this.mkdir('app/jeet');
-      this.copy('jeet-scss/jeet/index.scss', 'app/jeet/index.scss');
-      this.copy('jeet-scss/jeet/_settings.scss', 'app/jeet/_settings.scss');
-      this.copy('jeet-scss/jeet/_grid.scss', 'app/jeet/_grid.scss');
-      this.copy('jeet-scss/jeet/_functions.scss', 'app/jeet/_functions.scss');
       this.copy('jeet-scss/scss/style.scss', 'app/scss/style.scss');
       this.copy('jeet-scss/Gruntfile.js', 'Gruntfile.js');
     } else {
@@ -64,7 +59,7 @@ var JeetGenerator = yeoman.generators.Base.extend({
 
     this.copy('_bowerrc', '.bowerrc');
     this.template('_package.json', 'package.json');
-    this.copy('_bower.json', 'bower.json');
+    this.template('_bower.json', 'bower.json');
   },
 
   projectfiles: function () {
