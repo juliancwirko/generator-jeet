@@ -2,7 +2,7 @@
 
 [Yeoman](http://yeoman.io) generator for [Jeet Grid System](http://jeet.gs/).
 
-#### Blazing fast Stylus version with Autoprefixer and Rupture :) .. Scss version only on Libsass (for now) .. 
+##### Blazing fast Stylus version with Autoprefixer and Rupture :) .. Scss version only on Libsass (for now) .. 
 
 ## Yo Jeet!
 * Stylus version with Autoprefixer and Rupture
