@@ -2,7 +2,7 @@
 
 [Yeoman](http://yeoman.io) generator for [Jeet Grid System](http://jeet.gs/).
 
-##### Blazing fast Stylus version with Autoprefixer and Rupture :) .. Scss version only on Libsass (for now) .. 
+##### Blazing fast Stylus version with Autoprefixer and Rupture :) .. Scss version only on Libsass (for now) ..
 
 ## Yo Jeet!
 * Stylus version with Autoprefixer and Rupture
@@ -80,7 +80,7 @@ Read more about [grunt-usemin](https://github.com/yeoman/grunt-usemin)
 
 #### Bower-install
 
-Now you can install your libraries much faster. Example: 
+Now you can install your libraries much faster. Example:
 ```
 bower search magnific-popup
 ...
@@ -107,6 +107,10 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 [@juliancwirko](https://twitter.com/JulianCwirko) | [julian.cwirko@gmail.com](mailto:julian.cwirko@gmail.com)
 
 #### Changelog
+
+##### 0.1.1 (06.01.2015)
+
+- versions bump
 
 ##### 0.1.0 (18.09.2014)
 
