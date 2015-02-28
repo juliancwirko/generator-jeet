@@ -50,7 +50,7 @@ module.exports = function(grunt) {
                 }]
             },
         },
-        
+
         uglify: {
             options: {
                 preserveComments: 'some',
@@ -119,7 +119,7 @@ module.exports = function(grunt) {
                 ]
             }
         }
-        
+
     });
 
     grunt.registerTask('compile-stylus', ['stylus']);

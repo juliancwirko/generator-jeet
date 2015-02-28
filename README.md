@@ -108,6 +108,10 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 
 #### Changelog
 
+##### 0.1.2 (28.02.2015)
+
+- versions bump
+
 ##### 0.1.1 (06.01.2015)
 
 - versions bump

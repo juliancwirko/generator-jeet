@@ -48,7 +48,7 @@ module.exports = function(grunt) {
                 }]
             },
         },
-        
+
         uglify: {
             options: {
                 preserveComments: 'some',
@@ -120,7 +120,7 @@ module.exports = function(grunt) {
                 ]
             }
         }
-        
+
     });
 
     grunt.registerTask('compile-sass', ['sass']);
