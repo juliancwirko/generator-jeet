@@ -106,7 +106,15 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 
 [@juliancwirko](https://twitter.com/JulianCwirko) | [julian.cwirko@gmail.com](mailto:julian.cwirko@gmail.com)
 
+#### Try Jeet for Meteor
+
+[s-jeet Meteor package](https://atmospherejs.com/juliancwirko/s-jeet)
+
 #### Changelog
+
+##### 0.1.3 (15.08.2015)
+
+- updates
 
 ##### 0.1.2 (28.02.2015)
 
