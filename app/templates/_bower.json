@@ -2,7 +2,7 @@
     "name": "jeet package",
     "version": "0.0.1",
     "dependencies": {
-        "jquery": "~2.1.3"<% if (jeetScss) { %>,
+        "jquery": "~2.1.4"<% if (jeetScss) { %>,
         "jeet": "~6.1.2"<% } %>
     }
 }
